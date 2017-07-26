@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #b380ff;
+}
+
+h2 {
+	font-family: ariel;
+	color: black;
+	text-align: center;
+	background-color: #e0ccff;
+	padding: 25px;
+	margin: 0px 125px 10px 125px;
+}
+section {
+	float: left;
+	font-family: ariel;
+	color: black;
+	text-align: center;
+	background-color: #e0ccff;
+	padding: 80px;
+	width: 50%;
+	margin: 20px 0px 10px 125px;
+}
+article {
+	background-color: #b380ff;	
+}
+aside {
+	float: right;
+	font-family: ariel;
+	color: black;
+	text-align: center;
+	background-color: #e0ccff;
+	padding: 80px;
+	width: 50%;
+	margin: 20px 125px 10px 0px;
+}
+
+.footer {
+	clear: both;
+	font-family: ariel;
+	color: black;
+	text-align: center;
+	background-color: #e0ccff;
+	padding: 80px;
+	width: 50%;
+	margin: 20px 0px 10px 125px;
+}
