@@ -21,30 +21,40 @@ section {
 	text-align: center;
 	background-color: #e0ccff;
 	padding: 80px;
-	width: 50%;
-	margin: 20px 0px 10px 125px;
+	width: 44%;
+	height: 250px;
+	margin: 10px 0px 10px 125px;
 }
 article {
-	background-color: #b380ff;	
+	background-color: #b380ff;
+	padding: 20px;	
+}
+p{
+	font-family: ariel;
+	color: black;
+	text-align: center;
+	background-color: #e0ccff;
 }
 aside {
-	float: right;
+	float: left;
 	font-family: ariel;
 	color: black;
 	text-align: center;
 	background-color: #e0ccff;
 	padding: 80px;
-	width: 50%;
-	margin: 20px 125px 10px 0px;
+	width: 35%;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 }
 
-.footer {
+footer {
 	clear: both;
 	font-family: ariel;
 	color: black;
 	text-align: center;
 	background-color: #e0ccff;
-	padding: 80px;
-	width: 50%;
-	margin: 20px 0px 10px 125px;
+	padding: 30px;
+	margin: 0px 125px 10px 125px;
 }
